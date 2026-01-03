@@ -1,5 +1,4 @@
 package com.tictactoe;
-
 public enum Sign {
     EMPTY(' '),
     CROSS('X'),
